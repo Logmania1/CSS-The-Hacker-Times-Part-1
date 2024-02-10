@@ -1,1 +1,68 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@500&family=Source+Sans+Pro:wght@200;400;600&display=swap');
+body{
+background-color: lightgray;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.newspaper-container{
+    margin: 5em 15em;
+    background-color: white;
+    border-radius: 5%;
+}
+h1{
+    font-size: 3em;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+nav{
+    text-align: center;
+    margin-bottom: 2em;
+    font-size: 1.2em;
+    
+}
+main{
+    margin: 0em 2em;
+}
+a{
+    margin: 0.6em;
+}
+a:link{
+    color: black;
+    text-decoration: none;
+}
+a:visited{
+    color: lightslategray;
+    text-decoration: none;
+}
+h2{
+    font-size: 2em;
+    margin-bottom: 0.2em;
+}
+h5{
+    font-size: 1.2em;
+    color: red;
+    margin-top: 0.2em;
+    margin-bottom: 1em;
+}
+.more-articles{
+    margin: 0em 2em;
+    
+}
+#tabs{
+    width: 45%;
+    display: inline-block
+}
+#caffine{
+    width: 45%;
+    display: inline-block
+}
+h3{
+    font-size: 1.75em;
+}
+p{
+    font-size: 1.23em;
+}
+.date{
+    margin-left: 2em;
+    padding-top: 1em;
+}
